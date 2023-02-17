@@ -69,6 +69,12 @@ p{
     background-color: #e4f9f5;
     position: relative;
     padding-top: 100px;
+    height: 91vh;
+}
+
+.mountain {
+    position: relative;
+    top: 220px;
 }
 
 .middle-container {
@@ -83,7 +89,7 @@ p{
 .bottom-cloud {
     position: absolute;
     left: 600px;
-    bottom: 300px;
+    bottom: 500px;
 }
 
 .top-cloud {
